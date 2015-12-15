@@ -1,0 +1,24 @@
+{
+  "name": "gitSearch",
+  "version": "1.0",
+  "authors": [
+    "Rene Robles"
+  ],
+  "description": "Git Name and Repo Search",
+  "main": "gulpfile.js",
+  "keywords": [
+    "sass",
+    "css",
+    "frontend",
+    "git"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/vizion123mix/gitSearch",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
